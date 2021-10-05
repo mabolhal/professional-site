@@ -1,15 +1,15 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Mahyar Abolhallaj
+description: software developer
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /mabolhal #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
 
-highlighter: rouge
-markdown: kramdown
+# highlighter: rouge
+# markdown: kramdown
 
 # Pagination
 paginate: 4
@@ -19,8 +19,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "#"
-github: "#"
+linkedin: "mabolhal"
+github: "github.com/mabolhal"
 researchgate: "#"
 orcid: "#"
 

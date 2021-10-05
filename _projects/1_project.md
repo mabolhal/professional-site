@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: may the best woman win!
+description: Built Dash App to track queen performances for each episode
 ---
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+[Source Code](https://github.com/mabolhal/maythebestwomanwin) 
 
-H1 Header
-============
+Synopsis:
 
-Paragraphs are separated by a blank line.
+The goal is to view comments for episodes in selected season, to identify the contestants (if mentioned), and compute the comments' sentiment score (0, 1).
+
+<!-- Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
@@ -149,4 +150,4 @@ math should get its own line like so:
 $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
-which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc. -->
