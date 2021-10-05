@@ -4,7 +4,7 @@ title: Mahyar Abolhallaj
 description: software developer
 
 baseurl: /professional-site #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "https://mabolhal.github.io/professional-site" #custom url to be used instead of GitHub repository
 email: #
 
 
@@ -20,7 +20,7 @@ paginate_path: /blog/page:num/
 facebook: "#"
 twitter: "#"
 linkedin: "mabolhal"
-github: "github.com/mabolhal"
+github: "mabolhal"
 researchgate: "#"
 orcid: "#"
 
